@@ -1,0 +1,7 @@
+
+*.dll
+WebApplication6/.vs/WebApplication6/v16/.suo
+*.ide
+WebApplication6/.vs/WebApplication6/config/applicationhost.config
+WebApplication6/.vs/WebApplication6/v16/Server/sqlite3/storage.ide-shm
+WebApplication6/.vs/WebApplication6/v16/Server/sqlite3/storage.ide-wal
